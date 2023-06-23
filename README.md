@@ -1,2 +1,1 @@
-# Zadanie1
- na ocenę 3
+Ernest,22788,C10
